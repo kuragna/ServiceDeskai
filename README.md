@@ -2,10 +2,16 @@
 
 A ticketing system for reporting office problems with real-time chat, geolocation, and AI image analysis.
 
-## Quick Start
+## Getting Started
 
-### Prerequisites
-- Docker
+### Clone the Repository
+
+```bash
+git clone https://github.com/kuragna/ServiceDeskai.git
+cd ex00
+```
+
+## Quick Start
 
 ### Run with Docker
 
